@@ -1,0 +1,5 @@
+SN74LS194AN - 4-bit Shift Register
+CD4013B - CMOS Dual D-Type Flip-Flop
+SN74HC14AN - Inverter
+LF353N - Op-Amp
+LM358N - Op-Amp
